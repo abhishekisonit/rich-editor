@@ -1,5 +1,5 @@
 const LexicalEditorWrapper = () => {
-  return <div>LexicalEditorWrapper</div>;
+  return <div>Lexical Editor Wrapper</div>;
 };
 
 export default LexicalEditorWrapper;
